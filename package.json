@@ -1,0 +1,30 @@
+{
+  "name": "myfolio",
+  "version": "1.0.0",
+  "description": "Personal profile website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codymndlovu/myfolio.git"
+  },
+  "keywords": [
+    "mthabisi",
+    "ndlovu",
+    "portfolio"
+  ],
+  "author": "mthabisi-ndlovu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codymndlovu/myfolio/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
